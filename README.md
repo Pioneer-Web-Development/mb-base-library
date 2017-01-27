@@ -1,5 +1,7 @@
-MB Base Library 
-===============
+DEPRECATED | MB Base Library 
+============================
+
+*This library was for use with Zen templates and will not work with Flex without serious updating.*
 
 Becker's custom utility components for Blox. Many of these are required if you're going to be installing my custom MBDEV blocks to your templates. 
 
